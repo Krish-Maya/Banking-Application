@@ -11,10 +11,10 @@ class bank
      System.out.println("Enter your name");
 	  String name=s.nextLine();
 	  this.acc_name=name;
-	  System.out.println("Enter your Account number");
+	  System.out.println("Enter your Account No");
 	  String acno=s.nextLine();
 	  this.accno=acno;
-	  System.out.println("Enter your Account amount");
+	  System.out.println("Enter your Account amnt");
 	   this.bal=s.nextDouble();
 	  }
 	  
