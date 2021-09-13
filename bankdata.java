@@ -24,7 +24,7 @@ class bank
 	  System.out.println(" Account Holder name:"+ acc_name);
 	  System.out.println("  Account number"+accno);
 	  System.out.println("  Account balance"+bal);
-	
+	System.out.println("  Account balance from jenkins");
 	  }
 	  public void withdraw()
 	  {
